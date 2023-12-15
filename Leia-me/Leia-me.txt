@@ -1,0 +1,1 @@
+Seu código em Order como nome de classes está causando conflito com uma mesma classe do Jakarta, isto faz com que aja import de classe Order por exemplo que não é a sua classe Order, por isto eu renomei para OrderNew e alterei nas outras classes, depois você dá uma olhada se os imports estão apontando para o Order da sua classe ou do Jakarta!
